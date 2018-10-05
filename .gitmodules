@@ -1,0 +1,6 @@
+[submodule "references/repo_author"]
+	path = references/repo_author
+	url = git@github.com:ageron/handson-ml.git
+[submodule "references/repo_translator"]
+	path = references/repo_translator
+	url = git@github.com:rickiepark/handson-ml.git
